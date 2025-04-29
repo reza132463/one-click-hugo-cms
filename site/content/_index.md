@@ -60,7 +60,7 @@ products:
       4- Warranty Period Management
       5- Future Upgrades Planning
 values:
-  heading: Our Mission & Values
+  heading: Our Mission
   text: >-
     Our mission and core values guide every aspect of our business and shape how
     we interact with clients, partners, and the communities we serve.
