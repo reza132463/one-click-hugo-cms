@@ -1,20 +1,97 @@
 ---
-title: "Great coffee with a conscience"
-subtitle: Support sustainable farming while enjoying a cup
-image: /img/home-jumbotron.jpg
+title: Trusted Construction Management in BC
+subtitle: At CONTRUST, we act as the owner's trusted representative throughout
+  the entire construction process — from early planning and budgeting through to
+  final delivery.
+image: img/ben-allan-biec4yk2mta-unsplash-1-.jpg
 blurb:
-    heading: Why Kaldi?
-    text: "Kaldi is the coffee store for everyone who believes that great coffee shouldn't just taste good, it should do good too. We source all of our beans directly from small scale sustainable farmers and make sure part of the profits are reinvested in their communities."
-intro:
-    heading: "What we offer"
-    text: "Kaldi is the ultimate spot for coffee lovers who want to learn about their java’s origin and support the farmers that grew it. We take coffee production, roasting and brewing seriously and we’re glad to pass that knowledge to anyone."
-products:
-    - image: img/illustrations-coffee.svg
-      text: "We sell green and roasted coffee beans that are sourced directly from independent farmers and farm cooperatives. We’re proud to offer a variety of coffee beans grown with great care for the environment and local communities. Check our post or contact us directly for current availability."
-    - image: /img/illustrations-coffee-gear.svg
-      text: "We offer a small, but carefully curated selection of brewing gear and tools for every taste and experience level. No matter if you roast your own beans or just bought your first french press, you’ll find a gadget to fall in love with in our shop."
-values:
-    heading: Our values
-    text: Coffee is an amazing part of human culture but it has a dark side too – one of colonialism and mindless abuse of natural resources and human lives. We want to turn this around and return the coffee trade to the drink’s exhilarating, empowering and unifying nature.
----
+  heading: Why Choose CONTRUST
+  text: >-
+    With years of experience in the construction industry, we've developed a
+    reputation for excellence and reliability across Vancouver. 
 
+
+    # Expert Team:
+
+    Our team consists of experienced professionals who understand the complexities of construction management.
+
+
+    # Proven Process:
+
+    We follow a structured approach that ensures project success from inception to completion.
+
+
+    # Client-Focused:
+
+    Your vision and satisfaction are our top priorities. We maintain clear communication throughout the project.
+intro:
+  heading: Our Core Services
+  text: We bring together consultants, contractors, and city approvals to ensure
+    your project is delivered on time, on budget, and with the highest quality.
+products:
+  - image: img/1.jpg
+    text: |-
+      Pre-Construction Services:
+      Setting your project up for success.
+
+      1- Feasibility Analysis & Budget Planning
+      2- Consultant Procurement & Coordination
+      3- Permitting & Regulatory Guidance
+      4- Value Engineering
+      5- Scheduling & Planning
+  - image: img/3.jpg
+    text: |-
+      Construction Phase Management:
+      Ensuring quality execution. 
+
+      1- Tendering & Trade Contractor Selection
+      2- Contract Administration
+      3- Site Coordination & Supervision
+      4- Progress Monitoring & Reporting
+      5- Change Management
+  - image: img/4.jpeg
+    text: |-
+      Post-Construction & Turnover: 
+      Seamless project completion.
+
+      1- Final Inspections & Deficiency Management
+      2- Close-out Documentation
+      3- Client Support
+      4- Warranty Period Management
+      5- Future Upgrades Planning
+values:
+  heading: Our Mission & Values
+  text: >-
+    Our mission and core values guide every aspect of our business and shape how
+    we interact with clients, partners, and the communities we serve.
+
+
+    # Client Advocacy:
+
+    We represent our clients' best interests at every stage, ensuring their vision and requirements are prioritized throughout the construction process.
+
+
+    # Transparency:
+
+    We believe in open and honest communication, providing clear insights into project progress, challenges, and opportunities.
+
+
+    # Expertise: 
+
+    Our team brings specialized knowledge and experience to every project, ensuring informed decision-making and optimal outcomes.
+
+
+    # Accountability:
+
+    We take ownership of our responsibilities and hold ourselves to the highest standards of quality and performance.
+
+
+    # Innovation:
+
+    We continuously seek better ways to deliver value, embracing new technologies and methodologies that enhance project outcomes.
+
+
+    # Integrity:
+
+    We conduct our business ethically and honestly, building trust through consistent actions and reliable service.
+---
