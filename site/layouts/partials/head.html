@@ -1,9 +1,8 @@
 <head>
 
 <a href="/">
-  <img src="/img/logo.png" alt="CONTRUST Logo" style="height: 50px;">
+  <img src="/img/logo.png" alt="CONTRUST Logo" style="height: 100px;">
 </a>
-
   {{ $stylesheet := .Site.Data.webpack.main }}
   {{ with $stylesheet.css }}
     <link href="{{ relURL . }}" rel="stylesheet">
