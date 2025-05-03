@@ -55,47 +55,27 @@ main:
 
     As we grow, CONTRUST is proud to be earning the trust of homeowners, investors, and developers across the Vancouver region. We’re committed to delivering well-managed, high-quality projects — on time, on budget, and with integrity.
   image1:
-    alt: A close-up of a paper filter filled with ground coffee
+    alt: "1"
     image: img/jahanzeb-ahsan-c24qdmvoblg-unsplash.jpg
   image2:
-    alt: A green cup of a coffee on a wooden table
+    alt: "2"
     image: img/taylor-heery-eztwdby4hj0-unsplash.jpg
   image3:
-    alt: Coffee beans
+    alt: "3"
     image: img/phil-desforges-ow1mml1soi0-unsplash.jpg
-testimonials:
-  - author: Elisabeth Kaurismäki
-    quote: The first time I tried Kaldi’s coffee, I couldn’t even believe that was
-      the same thing I’ve been drinking every morning.
-  - author: Philipp Trommler
-    quote: Kaldi is the place to go if you want the best quality coffee. I love
-      their stance on empowering farmers and transparency.
+testimonials: []
 full_image: img/gerrit-schwerzel-itgxcm17u5a-unsplash.jpg
 pricing:
-  heading: Monthly subscriptions
-  description: We make it easy to make great coffee a part of your life. Choose
-    one of our monthly subscription plans to receive great coffee at your
-    doorstep each month. Contact us about more details and payment info.
+  heading: Our Leadership Team
+  description: Meet the experienced professionals who lead CONTRUST and drive our
+    commitment to excellence.
   plans:
-    - description: Perfect for the drinker who likes to enjoy 1-2 cups per day.
-      items:
-        - 3 lbs of coffee per month
-        - Green or roasted beans
-        - One or two varieties of beans
-      plan: Small
-      price: "50"
-    - description: Great for avid drinkers, java-loving couples and bigger crowds
-      items:
-        - 6 lbs of coffee per month
-        - Green or roasted beans
-        - Up to 4 different varieties of beans
-      plan: Big
-      price: "80"
-    - description: Want a few tiny batches from different varieties? Try our custom plan
-      items:
-        - Whatever you need
-        - Green or roasted beans
-        - Unlimited varieties
-      plan: Custom
-      price: "?"
+    - plan: "Reza Allahbedashti "
+      price: Co-founder and CEO
+      description: With about two decades of experience in construction and project
+        management, Reza leads our strategic vision and client relationships.
+    - plan: Meisam Bakhshizadeh
+      price: Co-founder and Director of Project Management
+      description: Meisam brings extensive experience in managing complex construction
+        projects across residential and commercial sectors.
 ---
