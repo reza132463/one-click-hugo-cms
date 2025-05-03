@@ -61,37 +61,7 @@ products:
       5- Future Upgrades Planning
 values:
   heading: Our Mission
-  text: >-
-    Our mission and core values guide every aspect of our business and shape how
-    we interact with clients, partners, and the communities we serve.
-
-
-    # Client Advocacy:
-
-    We represent our clients' best interests at every stage, ensuring their vision and requirements are prioritized throughout the construction process.
-
-
-    # Transparency:
-
-    We believe in open and honest communication, providing clear insights into project progress, challenges, and opportunities.
-
-
-    # Expertise: 
-
-    Our team brings specialized knowledge and experience to every project, ensuring informed decision-making and optimal outcomes.
-
-
-    # Accountability:
-
-    We take ownership of our responsibilities and hold ourselves to the highest standards of quality and performance.
-
-
-    # Innovation:
-
-    We continuously seek better ways to deliver value, embracing new technologies and methodologies that enhance project outcomes.
-
-
-    # Integrity:
-
-    We conduct our business ethically and honestly, building trust through consistent actions and reliable service.
+  text: Our mission is to deliver construction management services rooted in
+    trust, transparency, and client advocacy — ensuring every project is guided
+    by expertise, innovation, and unwavering accountability.
 ---
