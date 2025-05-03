@@ -1,6 +1,8 @@
 <head>
 
-  <title>{{ .Title }} | {{ $.Site.Title }}</title>
+<a href="/">
+  <img src="/img/logo.png" alt="CONTRUST Logo" style="height: 50px;">
+</a>
 
   {{ $stylesheet := .Site.Data.webpack.main }}
   {{ with $stylesheet.css }}
