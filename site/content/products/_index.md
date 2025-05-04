@@ -59,7 +59,7 @@ main:
     image: img/jahanzeb-ahsan-c24qdmvoblg-unsplash.jpg
   image2:
     alt: "2"
-    image: img/taylor-heery-eztwdby4hj0-unsplash.jpg
+    image: img/mariano-baraldi-a08go4umpzw-unsplash.jpg
   image3:
     alt: "3"
     image: img/phil-desforges-ow1mml1soi0-unsplash.jpg
@@ -70,12 +70,12 @@ pricing:
   description: Meet the experienced professionals who lead CONTRUST and drive our
     commitment to excellence.
   plans:
-    - plan: "Reza Allahbedashti "
-      price: Co-founder and CEO
+    - plan: "Co-founder and CEO "
+      price: "Reza Allahbedashti "
       description: With about two decades of experience in construction and project
         management, Reza leads our strategic vision and client relationships.
-    - plan: Meisam Bakhshizadeh
-      price: Co-founder and Director of Project Management
+    - plan: "Co-founder and Director of Project Management "
+      price: Meisam Bakhshizadeh
       description: Meisam brings extensive experience in managing complex construction
         projects across residential and commercial sectors.
 ---
