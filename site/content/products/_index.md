@@ -74,8 +74,12 @@ pricing:
       price: "Reza Allahbedashti "
       description: With about two decades of experience in construction and project
         management, Reza leads our strategic vision and client relationships.
+      items:
+        - "1"
     - plan: "Co-founder and Director of Project Management "
       price: Meisam Bakhshizadeh
       description: Meisam brings extensive experience in managing complex construction
         projects across residential and commercial sectors.
+      items:
+        - "2"
 ---
