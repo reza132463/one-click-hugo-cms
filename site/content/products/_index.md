@@ -63,7 +63,9 @@ main:
   image3:
     alt: "3"
     image: img/phil-desforges-ow1mml1soi0-unsplash.jpg
-testimonials: []
+testimonials:
+  - quote: "1"
+    author: "1"
 full_image: img/gerrit-schwerzel-itgxcm17u5a-unsplash.jpg
 pricing:
   heading: Our Leadership Team
